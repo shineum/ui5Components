@@ -1,0 +1,46 @@
+{
+	"results": [
+		{
+			"nameSpace": "com.sample.app.ui5.demo",
+			"componentName": "TestComponent",
+			"semanticObj": "TEST-display",
+			"text": "Test",
+			"icon": "sap-icon://flight"
+		},
+		{
+			"nameSpace": "sap.ui.layout.sample",
+			"componentName": "ResponsiveSplitter",
+			"semanticObj": "RSPLIT-display",
+			"text": "Splitter",
+			"icon": "sap-icon://folder"
+		},
+		{
+			"nameSpace": "sap.m.sample",
+			"componentName": "PDFViewerEmbedded",
+			"semanticObj": "PDFVIEWER-display",
+			"text": "PDF Viewer",
+			"icon": "sap-icon://pdf-reader"
+		},
+		{
+			"nameSpace": "sap.ui.core.sample",
+			"componentName": "Commands",
+			"semanticObj": "CMD-display",
+			"text": "Commands",
+			"icon": "sap-icon://action"
+		},
+		{
+			"nameSpace": "sap.f.sample",
+			"componentName": "Card",
+			"semanticObj": "CARD-display",
+			"text": "Card",
+			"icon": "sap-icon://credit-card"
+		},
+		{
+			"nameSpace": "sap.uxap.sample",
+			"componentName": "ObjectPageHeaderWithAllControls",
+			"semanticObj": "OPH-display",
+			"text": "OPH",
+			"icon": "sap-icon://ppt-attachment"
+		}
+	]
+}
